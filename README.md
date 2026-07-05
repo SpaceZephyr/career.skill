@@ -1,8 +1,8 @@
-<h1 align="center">Career Skill Factory</h1>
+<h1 align="center">职业.skill 2.0</h1>
 
 <p align="center"><code>career.skill</code></p>
 
-<p align="center"><em>「说出你的职业，它给你造一支能开评审会的顾问团」</em></p>
+<p align="center"><em>「说出你的职业，它给你造一支能顶级专家顾问团」</em></p>
 
 <p align="center">
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-c8a500?style=for-the-badge">
